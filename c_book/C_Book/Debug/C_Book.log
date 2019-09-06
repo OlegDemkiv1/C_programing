@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\odemki\desktop\new project\c_book\main.c(118): warning C4101: 'Book2': unreferenced local variable
+c:\users\odemki\desktop\new project\c_book\main.c(213): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+  C_Book.vcxproj -> C:\Users\odemki\Desktop\new project\C_Book\Debug\C_Book.exe
