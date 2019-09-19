@@ -9,3 +9,6 @@ int get_rand(int *lengh_arrey_for_rand, int *arrey_for_rand);
 void string_func(void);
 void structuries(struct Books book);
 void structure(struct Books *book);
+void input_output(void);
+void i_o_files(void);
+void calcul_char_in_file(void);

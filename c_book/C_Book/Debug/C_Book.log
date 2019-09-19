@@ -1,4 +1,7 @@
 ﻿  main.c
-c:\users\odemki\desktop\new project\c_book\main.c(118): warning C4101: 'Book2': unreferenced local variable
-c:\users\odemki\desktop\new project\c_book\main.c(213): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
-  C_Book.vcxproj -> C:\Users\odemki\Desktop\new project\C_Book\Debug\C_Book.exe
+d:\my\c_programing\c_book\main.c(36): warning C4091: 'typedef ': ignored on left of 'test_enum' when no variable is declared
+d:\my\c_programing\c_book\main.c(44): warning C4091: 'typedef ': ignored on left of 'test_enum_1' when no variable is declared
+d:\my\c_programing\c_book\main.c(186): warning C4101: 'numb': unreferenced local variable
+d:\my\c_programing\c_book\main.c(149): warning C4101: 'Book2': unreferenced local variable
+d:\my\c_programing\c_book\main.c(286): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+  C_Book.vcxproj -> D:\My\C_programing\C_Book\Debug\C_Book.exe
